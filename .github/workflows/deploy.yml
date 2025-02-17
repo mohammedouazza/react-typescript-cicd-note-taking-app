@@ -1,7 +1,7 @@
 name: React TypeScript CICD Note Taking App
 
 on:
-  worflow_dispatch:
+  workflow_dispatch:
   push:
     branches:
       - master
